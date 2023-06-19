@@ -26,7 +26,7 @@ btn.addEventListener('click', function() {
    
 
   }
-  else if( nameInput.value == 'Hasan' || nameInput.value== 'Sufyan' || nameInput.value== 'Bello' || nameInput.value== 'Toyyeb' || nameInput.value== 'Olaitan' ){
+  else if( nameInput.value == 'Hasan' || nameInput.value== 'Sufyan' || nameInput.value== 'Bello' || nameInput.value== 'Toyyib' || nameInput.value== 'Olaitan' || nameInput.value== 'Kunmi' || nameInput.value== 'Abdurrahman' || nameInput.value== 'Bosun' || nameInput.value== 'Faheed' || nameInput.value== 'Mustopha' || nameInput.value== 'Ola' || nameInput.value== 'Kamal' || nameInput.value== 'Adekunle' || nameInput.value== 'Adeniji' || nameInput.value== 'Ahmad' || nameInput.value== 'Sulaiman' || nameInput.value== 'Qosim' || nameInput.value== 'Folami' || nameInput.value== 'Fuhad' || nameInput.value== 'Yusuf' || nameInput.value== 'Oyesiji'){
     btn.setAttribute('id','startConfetti')
    
    Main.innerHTML = '<audio autoplay loop ><source src="/media/Eid-Audio.mp3"></audio><div  class="box"><span class="name"></span><span class = "eid">Eid mubarak in advance, Beloved brother!</span><p>May <span>Allah </span> spare our lives! Ameen.</p></div>     <h5>greetings from: <span>abdulmuiz</span></h5><div class="days-left"><div><p id="days" >00</p><span>Days</span></div> <div><p id="hours">00</p><span>Hours</span></div><div><p id="minutes">00</p><span>Minutes</span></div><div><p id="seconds">00</p><span>Seconds</span> </div></div>';
