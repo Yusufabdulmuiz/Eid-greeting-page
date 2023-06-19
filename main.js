@@ -73,7 +73,7 @@ btn.addEventListener('click', function() {
   }
 
 
-  else if( nameInput.value == 'Faheedah' || nameInput.value== 'faheedah' || nameInput.value== 'Haliyah' || nameInput.value== 'Umm aslam' || nameInput.value== 'zulaikha' ){
+  else if( nameInput.value == 'Faheedah' || nameInput.value=='Phaee' || nameInput.value== 'Haliyah' || nameInput.value== 'Umm aslam' || nameInput.value== 'zulaikha' ){
     btn.setAttribute('id','startConfetti')
    
    Main.innerHTML = '<audio autoplay loop ><source src="/media/Eid-Audio.mp3"></audio><div  class="box"><span class="name"></span><span class = "eid">Eid mubarak in advance, Beloved sister!</span><p>May <span>Allah </span> spare our lives! Ameen.</p></div>     <h5>greetings from: <span>abdulmuiz</span></h5><div class="days-left"><div><p id="days" >00</p><span>Days</span></div> <div><p id="hours">00</p><span>Hours</span></div><div><p id="minutes">00</p><span>Minutes</span></div><div><p id="seconds">00</p><span>Seconds</span> </div></div>';
