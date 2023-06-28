@@ -29,7 +29,7 @@ btn.addEventListener('click', function() {
   else if( nameInput.value == 'Hasan' || nameInput.value== 'Sufyan' || nameInput.value== 'Bello' || nameInput.value== 'Toyyib' || nameInput.value== 'Olaitan' || nameInput.value== 'Kunmi' || nameInput.value== 'Abdurrahman' || nameInput.value== 'Bosun' || nameInput.value== 'Faheed' || nameInput.value== 'Mustopha' || nameInput.value== 'Ola' || nameInput.value== 'Kamal' || nameInput.value== 'Adekunle' || nameInput.value== 'Adeniji' || nameInput.value== 'Ahmad' || nameInput.value== 'Sulaiman' || nameInput.value== 'Qosim' || nameInput.value== 'Folami' || nameInput.value== 'Fuhad' || nameInput.value== 'Yusuf' || nameInput.value== 'Oyesiji'){
     btn.setAttribute('id','startConfetti')
    
-   Main.innerHTML = '<audio autoplay loop ><source src="/media/Eid-Audio.mp3"></audio><div  class="box"><span class="name"></span><span class = "eid">Eid mubarak in advance, Beloved brother!</span><p>May <span>Allah </span> spare our lives! Ameen.</p></div>     <h5>greetings from: <span>abdulmuiz</span></h5><div class="days-left"><div><p id="days" >00</p><span>Days</span></div> <div><p id="hours">00</p><span>Hours</span></div><div><p id="minutes">00</p><span>Minutes</span></div><div><p id="seconds">00</p><span>Seconds</span> </div></div>';
+   Main.innerHTML = '<audio autoplay loop ><source src="/media/Eid-Audio.mp3"></audio><div  class="box"><span class="name"></span><span class = "eid">Eid mubarak! <br/>Taqobalallahu Minna Waminkunm, Beloved brother!</span><p>As we rejoice with family and relatives on this auspicious occasion. May <span> ALLAH</span> Taala grant us steadfastness on the path of righteousness, elevate our īman, cleanse our sins and bestow His blessings and mercy upon us in this world and in the hereafter.</p></div>     <h5>greetings from: <span>abdulmuiz</span></h5><div class="days-left"><div><p id="days" >00</p><span>Days</span></div> <div><p id="hours">00</p><span>Hours</span></div><div><p id="minutes">00</p><span>Minutes</span></div><div><p id="seconds">00</p><span>Seconds</span> </div></div>';
     
     
    //countdown
@@ -76,7 +76,7 @@ btn.addEventListener('click', function() {
   else if( nameInput.value == 'Faheedah' || nameInput.value=='Phaee' || nameInput.value== 'Haliyah' || nameInput.value== 'Umm aslam' || nameInput.value== 'zulaikha' ){
     btn.setAttribute('id','startConfetti')
    
-   Main.innerHTML = '<audio autoplay loop ><source src="/media/Eid-Audio.mp3"></audio><div  class="box"><span class="name"></span><span class = "eid">Eid mubarak in advance, Beloved sister!</span><p>May <span>Allah </span> spare our lives! Ameen.</p></div>     <h5>greetings from: <span>abdulmuiz</span></h5><div class="days-left"><div><p id="days" >00</p><span>Days</span></div> <div><p id="hours">00</p><span>Hours</span></div><div><p id="minutes">00</p><span>Minutes</span></div><div><p id="seconds">00</p><span>Seconds</span> </div></div>';
+   Main.innerHTML = '<audio autoplay loop ><source src="/media/Eid-Audio.mp3"></audio><div  class="box"><span class="name"></span><span class = "eid">Eid mubarak! <br/>Taqobalallahu Minna Waminkunm, Beloved sister!</span><p>As we rejoice with family and relatives on this auspicious occasion. May <span> ALLAH</span> Taala grant us steadfastness on the path of righteousness, elevate our īman, cleanse our sins and bestow His blessings and mercy upon us in this world and in the hereafter.</p></div>     <h5>greetings from: <span>abdulmuiz</span></h5><div class="days-left"><div><p id="days" >00</p><span>Days</span></div> <div><p id="hours">00</p><span>Hours</span></div><div><p id="minutes">00</p><span>Minutes</span></div><div><p id="seconds">00</p><span>Seconds</span> </div></div>';
     
     
    //countdown
@@ -120,7 +120,7 @@ btn.addEventListener('click', function() {
   }
   else {
     btn.setAttribute('id','startConfetti')
-    Main.innerHTML = '<audio autoplay loop ><source src="/media/Eid-Audio.mp3"></audio><div  class="box"><span class="name"></span><span class = "eid">Eid mubarak in advance!</span><p>May <span>Allah </span> spare our lives! Ameen.</p></div>     <h5>greetings from: <span>abdulmuiz</span></h5><div class="days-left"><div><p id="days" >00</p><span>Days</span></div> <div><p id="hours">00</p><span>Hours</span></div><div><p id="minutes">00</p><span>Minutes</span></div><div><p id="seconds">00</p><span>Seconds</span> </div></div>'
+    Main.innerHTML = '<audio autoplay loop ><source src="/media/Eid-Audio.mp3"></audio><div  class="box"><span class="name"></span><span class = "eid">Eid mubarak! <br/>Taqobalallahu Minna Waminkunm!</span><p>As we rejoice with family and relatives on this auspicious occasion. May <span> ALLAH</span> Taala grant us steadfastness on the path of righteousness, elevate our īman, cleanse our sins and bestow His blessings and mercy upon us in this world and in the hereafter.</p></div>     <h5>greetings from: <span>abdulmuiz</span></h5><div class="days-left"><div><p id="days" >00</p><span>Days</span></div> <div><p id="hours">00</p><span>Hours</span></div><div><p id="minutes">00</p><span>Minutes</span></div><div><p id="seconds">00</p><span>Seconds</span> </div></div>';
     
     
     
