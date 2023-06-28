@@ -88,11 +88,11 @@ input  {
   
 }
 p {
-  font-size: 16px;
+  font-size: 10px;
   color: #333333;
   text-transform: capitalize;
   font-family: var(--normal);
-  font-weight: 300;
+  font-weight: 500;
   
 }
 .bg-video {
