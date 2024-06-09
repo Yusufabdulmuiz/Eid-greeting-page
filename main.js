@@ -34,7 +34,7 @@ btn.addEventListener('click', function() {
     
    //countdown
 
-  var countDown = new Date("June 28, 2023 00:00:00").getTime();
+  var countDown = new Date("June 16, 2024 00:00:00").getTime();
   var i = setInterval(() => {
     var now = new Date().getTime();
     var difference = countDown - now;
